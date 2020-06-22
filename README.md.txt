@@ -1,3 +1,8 @@
-##My Testing Javascript
+# The Complete Javascript Course 2020
 
-Javascript version ES6/Es2015
+This Course is learning from Javascript learning Basic to Advanced
+
+
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
